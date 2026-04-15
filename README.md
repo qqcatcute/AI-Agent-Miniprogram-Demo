@@ -1,7 +1,7 @@
 # AI-Agent-Miniprogram-Demo
 多模态 AI Agent 智能对话小程序前端架构与交互演示
 > **声明**：本项目为公司商业化落地项目，核心业务代码已闭源。本仓库仅作为「飞书 AI 校园挑战赛」的方案展示与技术架构说明，包含核心交互 Demo 演示与前端工程化解决方案。
-> ## 🎥 核心功能演示 (Demo)由于github不能上传90m是视频 用的是飞书文档！
+> ## 🎥 核心功能演示 (Demo)由于github不能上传90m的视频 用的是飞书文档！
 >https://f1m04szbti2.feishu.cn/wiki/SlnGwzin2i2vTtkxOtDcyFBSnNc?from=from_copylink
 >## 💡 项目背景与解决痛点
 
